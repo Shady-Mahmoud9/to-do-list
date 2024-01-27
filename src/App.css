@@ -43,7 +43,9 @@ h2,h3{
 }
 
 .container{
+min-width: 300px;
   width: 25%;
+
   display: flex;
   justify-content: center;
   flex-direction: column;
